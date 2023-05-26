@@ -81,4 +81,4 @@ Empty search
 
 You can search simulations without adding any elements. This will return every simulation we have in our database. You can still filter by any of the fields: Force Field, Software, etc. 
 
-.. _Advanced search: https://submission.gpcrmd.org/dynadb/search/#adv
+.. _Advanced search: https://|URLdomain|/dynadb/search/#adv
