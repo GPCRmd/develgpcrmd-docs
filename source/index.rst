@@ -7,7 +7,6 @@ Welcome to GPCRmd's documentation!
 ==================================
 
 .. toctree::
-   :maxdepth: 2
    :caption: Contents:
 
    workbench
