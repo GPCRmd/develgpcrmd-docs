@@ -10,9 +10,9 @@ Welcome to GPCRmd's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   source/_templates/workbench
-   source/_templates/cross-receptor-analysis
-   source/_templates/submission
-   source/_templates/simulation-browser
-   source/_templates/data-download
-   source/citing-gpcrmd
+   workbench
+   cross-receptor-analysis
+   submission
+   simulation-browser
+   data-download
+   citing-gpcrmd
