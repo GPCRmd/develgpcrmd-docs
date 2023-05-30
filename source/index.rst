@@ -15,7 +15,7 @@ Welcome to GPCRmd's documentation!
    source/_templates/submission
    source/_templates/simulation-browser
    source/_templates/data-download
-   source/_templates/citing-gpcrmd
+   source/citing-gpcrmd
 
 $project
 ========
