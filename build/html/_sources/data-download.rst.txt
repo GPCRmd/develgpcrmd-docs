@@ -14,9 +14,10 @@ All files related to the simulations stored in GPCRmd are available for download
 The *Simulation report* can be accessed from the *List of simulated systems* tab of our `Search page`_ or directly from the *GPCRmd Workbench* page of the simulation, through the *Simulation report and files* link. 
 
 
+.. _GPCRmd API: https://|URLdomain|/api/
 
 GPCRmd API
 ===================
-In the case that you need to download more than one dynamic files, GPCRmd users have the posibility to use GPCRmd API downloader tool to get a zip file with all the information requested. 
+In the case that you need to download more than one dynamic files, GPCRmd users have the posibility to use GPCRmd API downloader tool (`GPCRmd API`_) to get a zip file with all the information requested. 
 
-.. _GPCRmd API: https://|URLdomain|/api/
+
