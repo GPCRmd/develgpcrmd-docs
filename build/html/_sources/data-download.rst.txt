@@ -5,7 +5,7 @@ Data download
 .. contents::
     :depth: 2
 
-.. _Search page: https://|domain|/dynadb/search/
+.. _Search page: https://devel.gpcrmd.org/dynadb/search/
 
 Simulation report
 ===================
@@ -14,7 +14,7 @@ All files related to the simulations stored in GPCRmd are available for download
 The *Simulation report* can be accessed from the *List of simulated systems* tab of our `Search page`_ or directly from the *GPCRmd Workbench* page of the simulation, through the *Simulation report and files* link. 
 
 
-.. _GPCRmd API: https://|domain|/api/
+.. _GPCRmd API: https://devel.gpcrmd.org/api/
 
 GPCRmd API
 ===================
