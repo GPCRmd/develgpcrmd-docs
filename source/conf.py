@@ -39,4 +39,3 @@ htmlhelp_basename = 'GPCRmddoc'
 
 # URL
 domain = "devel.gpcrmd.org"
-rst_epilog = '.. |URLdomain| replace:: %s' % domain
