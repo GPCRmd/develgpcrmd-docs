@@ -6,10 +6,6 @@ Data download
     :depth: 2
 
 
-There are two ways to download the data: 
-1) Simulation report 
-2) GPCRmd API (needs account)
-
 Simulation report
 ===================
 All files related to the simulations stored in GPCRmd are available for download at the *Simulation report* page. This includes simulation outputs (trajectories, topologies, and coordinates) as well as simulation protocol and starting files. 
