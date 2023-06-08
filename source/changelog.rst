@@ -9,16 +9,18 @@ Changelog
 
 .. role:: green
 
-* New style of the web. 
-* Added a simulation tool selector. 
-* New policies & cookies use terms. 
+**Added** 
+* Simulation tool selector with a search table to select a specific dynamic. 
+* New front-end style of the web. 
+* New GPCRmd API. 
+* Instructions to follow before start the submission process. 
+* Option on step 4 to upload the simulation protocol in the submission form. 
+* Option on step 5 to retrieve the information of the article using the DOI.
+  
+**Changed**
+* GPCRmd Tree Map with zoom & drag utilities.
+* Search table with a compact table and options to hide or show columns.
 
-GPCRTreemap
-++++++++++++
-* Zoom & drag utilities.
-
-Search table
-++++++++++++
-* More compact table with the option to hide or show columns.
-* Added for each tool a search table to select a specific dynamic. 
+**Fixed**
+* `Workbench Viewer <Viewer_>` bugs with table sizes. 
 

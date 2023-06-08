@@ -9,7 +9,6 @@ Welcome to GPCRmd's documentation!
 .. toctree::
    :caption: Contents:
 
-   changelog
    workbench
    cross-receptor-analysis
    submission
@@ -17,3 +16,6 @@ Welcome to GPCRmd's documentation!
    data-download
    api
    citing-gpcrmd
+   changelog
+
+   
