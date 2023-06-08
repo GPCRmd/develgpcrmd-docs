@@ -3,7 +3,7 @@ Search
 ==================
 
 .. contents::
-    :depth: 1
+    :depth: 2
 
 List of simulated systems
 ==========================
