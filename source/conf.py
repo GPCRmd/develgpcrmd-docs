@@ -9,7 +9,7 @@
 project = 'develgpcrmd-docs'
 copyright = '2023, DevGPCRmd, GPCR drug discovery group'
 author = 'DevGPCRmd'
-release = 'Beta-1.0.0'
+release = '2.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
