@@ -9,9 +9,11 @@ Welcome to GPCRmd's documentation!
 .. toctree::
    :caption: Contents:
 
+   changelog
    workbench
    cross-receptor-analysis
    submission
    simulation-browser
    data-download
+   api
    citing-gpcrmd
