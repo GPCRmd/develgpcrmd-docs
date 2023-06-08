@@ -7,8 +7,6 @@ Changelog
 2.0.1
 *****************
 
-.. role:: green
-
 **Added**   
 
 * Simulation tool selector with a search table to select a specific dynamic. 
