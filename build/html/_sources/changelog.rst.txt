@@ -5,7 +5,7 @@ Changelog
     :maxdepth: 1
 
 2.0.1
-==========================
+*****************
 
 .. role:: green
 
@@ -14,11 +14,11 @@ Changelog
 * New policies & cookies use terms. 
 
 GPCRTreemap
-------------
+++++++++++++
 * Zoom & drag utilities.
 
 Search table
-------------
+++++++++++++
 * More compact table with the option to hide or show columns.
 * Added for each tool a search table to select a specific dynamic. 
 
