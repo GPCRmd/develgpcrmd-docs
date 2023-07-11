@@ -4,7 +4,7 @@ Changelog
 .. toctree::
     :maxdepth: 1
 
-2.0.1
+2.0.0 xx-yy-2023
 *****************
 
 **Added**   
@@ -23,5 +23,5 @@ Changelog
 
 **Fixed**  
 
-* `Workbench Viewer <Viewer_>` bugs with table sizes. 
+* Workbench Viewer bugs with table sizes. 
 
